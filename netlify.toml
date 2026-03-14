@@ -1,7 +1,0 @@
-[build]
-  base = "shore-fire-github"
-  command = "npm install && npm run build"
-  publish = "shore-fire-github/dist"
-
-[build.environment]
-  NODE_VERSION = "18"
